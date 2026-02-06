@@ -15,16 +15,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=AB0204&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -223,32 +213,6 @@ focus = {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 </details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AB0204&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AB0204&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AB0204&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏅 Professional Experience
-
-**Data Engineer** @ Vodafone Intelligent Solutions | *Aug 2022 - Jul 2023*
-- Reduced pipeline latency from **4 hours → 20 minutes** (92% improvement)
-- Built data observability system monitoring **15+ pipelines** (99.5% uptime)
-- Prevented **$500K+ revenue miscalculations** through real-time processing
-
-**Data Engineer Intern** @ HighRadius | *Jun 2021 - Jul 2021*
-- Optimized ETL reducing feature engineering time from **6 hours → 15 minutes**
-- Standardized data modeling, reducing onboarding from **2 weeks → 3 days**
 
 ---
 
