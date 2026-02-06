@@ -15,6 +15,18 @@
 
 ---
 
+## 📊 Quick Stats
+
+<div align="center">
+
+| 💼 Experience | 🚀 Projects Deployed | ⭐ Top Technologies | 🎓 Education |
+|---------------|---------------------|---------------------|---------------|
+| 2+ Years Professional | 7+ Production Apps | MLOps • Kafka • RAG | MS Computer Science @ GWU |
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -123,6 +135,75 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 🎬 See Projects In Action
+
+<details>
+<summary><b>🔐 FraudGuard - MLOps Dashboard</b></summary>
+<br>
+
+![FraudGuard Demo](https://via.placeholder.com/800x450/1a1a2e/16213e?text=FraudGuard+Real-Time+Detection+Dashboard)
+
+**Key Features Shown:**
+- Real-time fraud probability scoring
+- SHAP explanation for model decisions
+- Model drift detection alerts
+- MLflow experiment tracking
+
+🔗 [**Try Live Demo**](https://risklens-pkut6xkwhua7dmugegejum.streamlit.app)
+
+</details>
+
+<details>
+<summary><b>🎟️ TicketBlitz - Real-Time Engineering Visualizer</b></summary>
+<br>
+
+![TicketBlitz Demo](https://via.placeholder.com/800x450/1a1a2e/16213e?text=TicketBlitz+Distributed+Systems+Visualizer)
+
+**Key Features Shown:**
+- Redis locks in action (acquire/release)
+- PostgreSQL transaction flow
+- Kafka event streaming
+- WebSocket real-time updates
+
+🔗 [**Try Live Demo**](https://ticket-blitz.vercel.app/)
+
+</details>
+
+<details>
+<summary><b>🎓 PadhAI-Dost - RAG-Powered Study Assistant</b></summary>
+<br>
+
+![PadhAI-Dost Demo](https://via.placeholder.com/800x450/1a1a2e/16213e?text=PadhAI+Dost+RAG+Chat+Interface)
+
+**Key Features Shown:**
+- PDF upload and processing
+- Contextual AI chat with citations
+- Auto-generated flashcards
+- Learning analytics dashboard
+
+🔗 [**Try Live Demo**](https://padhai-dost-v2.vercel.app)
+
+</details>
+
+---
+
+## 💻 Skills Proficiency
+
+<div align="center">
+
+| Domain | Technologies | Level |
+|--------|--------------|-------|
+| **Machine Learning & MLOps** | PyTorch • XGBoost • LightGBM • MLflow • Evidently | ████████░░ 85% |
+| **Data Engineering** | Kafka • Spark • Airflow • PostgreSQL • Redis | ████████░░ 80% |
+| **GenAI & LLMs** | LangChain • RAG • ChromaDB • Gemini • OpenAI | ███████░░░ 75% |
+| **Backend Development** | FastAPI • Node.js • Express • TypeScript | ████████░░ 85% |
+| **Frontend** | React • Next.js 15 • TypeScript • Tailwind CSS | ███████░░░ 70% |
+| **Cloud & DevOps** | Docker • Kubernetes • GCP • Vercel • CI/CD | ███████░░░ 70% |
+
+</div>
 
 ---
 
