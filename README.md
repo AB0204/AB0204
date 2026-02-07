@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Header](.github/assets/profile-header.png)
+![Profile Header](.github/assets/profile-header-slim.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=ML+Engineer+%7C+Full+Stack+Developer;Building+Production-Grade+AI+Systems;96.2%25+Precision+%7C+%242.4M+Business+Impact;Kafka+%7C+MLOps+%7C+Distributed+Systems)](https://git.io/typing-svg)
 
