@@ -1,5 +1,7 @@
 <div align="center">
 
+![Profile Header](.github/assets/profile-header.png)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=ML+Engineer+%7C+Full+Stack+Developer;Building+Production-Grade+AI+Systems;96.2%25+Precision+%7C+%242.4M+Business+Impact;Kafka+%7C+MLOps+%7C+Distributed+Systems)](https://git.io/typing-svg)
 
 **MS Computer Science @ GWU** | Ex-Vodafone, HighRadius | 6+ Production Deployments
@@ -144,7 +146,7 @@
 <summary><b>🔐 FraudGuard - MLOps Dashboard</b></summary>
 <br>
 
-![FraudGuard Demo](https://via.placeholder.com/800x450/1a1a2e/16213e?text=FraudGuard+Real-Time+Detection+Dashboard)
+![FraudGuard Demo](.github/assets/fraudguard-demo.png)
 
 **Key Features Shown:**
 - Real-time fraud probability scoring
@@ -160,7 +162,7 @@
 <summary><b>🎟️ TicketBlitz - Real-Time Engineering Visualizer</b></summary>
 <br>
 
-![TicketBlitz Demo](https://via.placeholder.com/800x450/1a1a2e/16213e?text=TicketBlitz+Distributed+Systems+Visualizer)
+![TicketBlitz Demo](.github/assets/ticketblitz-demo.png)
 
 **Key Features Shown:**
 - Redis locks in action (acquire/release)
@@ -176,7 +178,7 @@
 <summary><b>🎓 PadhAI-Dost - RAG-Powered Study Assistant</b></summary>
 <br>
 
-![PadhAI-Dost Demo](https://via.placeholder.com/800x450/1a1a2e/16213e?text=PadhAI+Dost+RAG+Chat+Interface)
+![PadhAI-Dost Demo](.github/assets/padhai-dost-demo.png)
 
 **Key Features Shown:**
 - PDF upload and processing
