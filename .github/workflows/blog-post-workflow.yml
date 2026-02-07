@@ -17,3 +17,16 @@ jobs:
           feed_list: "https://zerotooneblog.hashnode.dev/rss.xml"
           max_post_count: 5
           readme_path: "README.md"
+          template: |
+            <table>
+              <tr>
+                <td width="20%"><img src="$cover_image" width="100%" style="border-radius: 10px;"></td>
+                <td width="80%">
+                  <a href="$url"><h3>$title</h3></a>
+                  <strong>$date</strong><br/>
+                  $description
+                </td>
+              </tr>
+            </table>
+          committer_username: "blog-bot"
+          committer_email: "blog-bot@example.com"
