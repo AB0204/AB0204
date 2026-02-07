@@ -301,11 +301,50 @@ focus = {
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Building Production ML Systems: MLOps Best Practices](https://zerotooneblog.hashnode.dev)
-- [Real-Time Data Processing with Kafka and Spark](https://zerotooneblog.hashnode.dev)
-- [Deploying LLM Applications: RAG Architecture Guide](https://zerotooneblog.hashnode.dev)
-<!-- BLOG-POST-LIST:END -->
+<table>
+<tr>
+<td width="70%">
+<a href="https://zerotooneblog.hashnode.dev/building-production-ml-systems-mlops-best-practices">
+<h3>🚀 Building Production ML Systems: MLOps Best Practices</h3>
+</a>
+<p>Deep dive into MLflow, model monitoring, and deployment strategies for production ML systems.</p>
+<sub>📅 January 2026 • ⏱️ 8 min read</sub>
+</td>
+<td width="30%" align="right">
+<img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="70%">
+<a href="https://zerotooneblog.hashnode.dev/real-time-data-processing-kafka-spark">
+<h3>⚡ Real-Time Data Processing with Kafka and Spark</h3>
+</a>
+<p>Building scalable streaming pipelines with Apache Kafka and Spark Structured Streaming.</p>
+<sub>📅 December 2025 • ⏱️ 10 min read</sub>
+</td>
+<td width="30%" align="right">
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="70%">
+<a href="https://zerotooneblog.hashnode.dev/deploying-llm-applications-rag-architecture">
+<h3>🤖 Deploying LLM Applications: RAG Architecture Guide</h3>
+</a>
+<p>Complete guide to building and deploying Retrieval-Augmented Generation systems in production.</p>
+<sub>📅 November 2025 • ⏱️ 12 min read</sub>
+</td>
+<td width="30%" align="right">
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 ➡️ [**Read more on my blog**](https://zerotooneblog.hashnode.dev)
 
