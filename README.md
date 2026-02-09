@@ -29,6 +29,15 @@
 
 ---
 
+## 🚧 Currently Building
+
+### [Lumina AI - Visual Fashion Search Engine](https://github.com/AB0204/Lumina-AI)
+> AI-powered visual commerce engine that understands fashion through computer vision. Upload any image to detect clothing items using **Owlv2** zero-shot detection, find similar products with **SigLIP** multimodal embeddings, and search through millions of items using **Qdrant** vector database—all with millisecond latency.
+
+**Stack:** FastAPI • Next.js 15 • Owlv2 • SigLIP • Qdrant • Docker
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
