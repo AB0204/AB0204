@@ -31,7 +31,7 @@
 
 ## Currently Building
 
-### [Lumina AI - Visual Fashion Search Engine](https://github.com/AB0204/Lumina-AI)
+### ✨ [Lumina AI - Visual Fashion Search Engine](https://github.com/AB0204/Lumina-AI)
 
 ![Last Commit](https://img.shields.io/github/last-commit/AB0204/Lumina-AI?style=flat-square&color=blueviolet)
 ![Language](https://img.shields.io/github/languages/top/AB0204/Lumina-AI?style=flat-square&color=blueviolet)
