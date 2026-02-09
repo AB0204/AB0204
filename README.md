@@ -34,7 +34,7 @@
 ### [Lumina AI - Visual Fashion Search Engine](https://github.com/AB0204/Lumina-AI)
 
 ![Last Commit](https://img.shields.io/github/last-commit/AB0204/Lumina-AI?style=flat-square&color=blueviolet)
-![Stars](https://img.shields.io/github/stars/AB0204/Lumina-AI?style=flat-square&color=blueviolet)
+![Language](https://img.shields.io/github/languages/top/AB0204/Lumina-AI?style=flat-square&color=blueviolet)
 
 > **Solving the $500B visual search problem in e-commerce.** AI-powered engine that understands fashion through computer vision. Upload any image to detect clothing items using **Owlv2** zero-shot detection, find similar products with **SigLIP** multimodal embeddings, and search through millions of items using **Qdrant** vector database—all with millisecond latency.
 
