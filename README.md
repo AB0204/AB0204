@@ -29,26 +29,26 @@
 
 ---
 
-## Currently Building
-
-### ✨ [Lumina AI - Visual Fashion Search Engine](https://github.com/AB0204/Lumina-AI)
-
-[![Live Demo](https://img.shields.io/badge/🎬_Live_Demo-Hugging_Face-yellow?style=flat-square)](https://huggingface.co/spaces/Ab0202000/lumina-ai-demo)
-![Last Commit](https://img.shields.io/github/last-commit/AB0204/Lumina-AI?style=flat-square&color=blueviolet)
-![Language](https://img.shields.io/github/languages/top/AB0204/Lumina-AI?style=flat-square&color=blueviolet)
-
-> **Solving the $500B visual search problem in e-commerce.** AI-powered engine that understands fashion through computer vision — object detection, style analysis, and semantic search with two-stage retrieval and cross-encoder reranking. Production-grade with CI/CD, Redis caching, and hybrid search filters.
-
-**Stack:** FastAPI • Next.js 15 • OWLv2 • CLIP • Qdrant • Redis • Docker
-
-🔗 [**Try Live Demo**](https://huggingface.co/spaces/Ab0202000/lumina-ai-demo) • [**GitHub**](https://github.com/AB0204/Lumina-AI)
-
----
-
 ## 🚀 Featured Projects
 
 <table>
 <tr>
+<td width="50%">
+
+### 🔮 [Lumina AI](https://github.com/AB0204/Lumina-AI)
+> **Visual Commerce Engine** • Live on HF Spaces
+
+⚡ Semantic search • Two-stage retrieval  
+🛠️ `OWLv2` `CLIP` `Qdrant` `FastAPI` `Next.js 15` `Redis` `Docker`
+
+- Zero-shot object detection (OWLv2)
+- Cross-encoder reranking pipeline
+- Hybrid search: vector + structured filters
+- CI/CD, Redis caching, full Docker stack
+
+🔗 [**Live Demo**](https://huggingface.co/spaces/Ab0202000/lumina-ai-demo) • [**GitHub**](https://github.com/AB0204/Lumina-AI)
+
+</td>
 <td width="50%">
 
 ### 🔐 [FraudGuard](https://github.com/AB0204/FraudGuard)
@@ -65,9 +65,12 @@
 🔗 [**Live Demo**](https://risklens-pkut6xkwhua7dmugegejum.streamlit.app) • [**GitHub**](https://github.com/AB0204/FraudGuard)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
-### 🎟️ [TicketBlitz](https://github.com/AB0204/Ticket-Blitz)
+### 🎫 [TicketBlitz](https://github.com/AB0204/Ticket-Blitz)
 > **High-Concurrency System** • 10K+ Concurrent Users
 
 ⚡ Zero race conditions • <120ms P95  
@@ -81,9 +84,6 @@
 🔗 [**Live Demo**](https://ticket-blitz.vercel.app/) • [**GitHub**](https://github.com/AB0204/Ticket-Blitz)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🎓 [PadhAI-Dost v2](https://github.com/AB0204/PadhAI-Dost)
@@ -100,6 +100,9 @@
 🔗 [**Live Demo**](https://padhai-dost-v2.vercel.app) • [**GitHub**](https://github.com/AB0204/PadhAI-Dost)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### ☁️ [WeatherNow](https://github.com/AB0204/WeatherNow)
@@ -116,28 +119,9 @@
 🔗 [**Live Demo**](https://weathernow-rmuxbngwrdlmwmcgkmflmq.streamlit.app/) • [**GitHub**](https://github.com/AB0204/WeatherNow)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
-### 🛒 [UrbanKart](https://github.com/AB0204/UrbanKart)
-> **Full-Stack E-Commerce** • 1000+ Concurrent Users
-
-⚡ <100ms API response • <2s load time  
-🛠️ `FastAPI` `React` `TypeScript` `MySQL` `Vite`
-
-- JWT auth with RBAC
-- MySQL triggers for automation
-- Type-safe frontend
-- Optimized indexing
-
-🔗 [**Live Demo**](https://urbankart-store.surge.sh) • [**GitHub**](https://github.com/AB0204/UrbanKart)
-
-</td>
-<td width="50%">
-
-### 📈 [SentiStock Analytics](https://github.com/AB0204/SentiStock-Analytics)
+### 📊 [SentiStock Analytics](https://github.com/AB0204/SentiStock-Analytics)
 > **Stock Sentiment Analysis** • 10K+ Tickers
 
 ⚡ 100+ articles/min • 75-80% correlation  
@@ -225,22 +209,14 @@
 
 ---
 
-## 🎯 Currently Building (2026)
+## 🎯 What I'm Exploring Next
 
 ```python
-focus = {
-    "shipping": [
-        "🔮 Lumina AI — Visual commerce engine (LIVE on HF Spaces)",
-        "🚀 Two-stage retrieval with cross-encoder reranking",
-        "🧠 Hybrid search: vector + structured filters"
-    ],
-    "learning": [
-        "Advanced MLOps: A/B testing, model governance",
-        "Distributed systems: Event-driven architecture",
-        "Production CV: GroundingDINO, Florence-2"
-    ],
-    "next": "Multi-agent LLM application with LangGraph"
-}
+next_up = [
+    "🧠 Multi-agent LLM application (LangGraph)",
+    "🚀 Advanced computer vision: GroundingDINO, Florence-2",
+    "📊 A/B testing infrastructure for ML models"
+]
 ```
 
 ---
