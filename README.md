@@ -23,7 +23,7 @@
 
 | 💼 Experience | 🚀 Projects Deployed | ⭐ Top Technologies | 🎓 Education |
 |---------------|---------------------|---------------------|---------------|
-| 2+ Years Professional | 7+ Production Apps | MLOps • Kafka • RAG | MS Computer Science @ GWU |
+| 2+ Years Professional | 8+ Production Apps | MLOps • Kafka • RAG • CV | MS Computer Science @ GWU |
 
 </div>
 
@@ -33,12 +33,15 @@
 
 ### ✨ [Lumina AI - Visual Fashion Search Engine](https://github.com/AB0204/Lumina-AI)
 
+[![Live Demo](https://img.shields.io/badge/🎬_Live_Demo-Hugging_Face-yellow?style=flat-square)](https://huggingface.co/spaces/Ab0202000/lumina-ai-demo)
 ![Last Commit](https://img.shields.io/github/last-commit/AB0204/Lumina-AI?style=flat-square&color=blueviolet)
 ![Language](https://img.shields.io/github/languages/top/AB0204/Lumina-AI?style=flat-square&color=blueviolet)
 
-> **Solving the $500B visual search problem in e-commerce.** AI-powered engine that understands fashion through computer vision. Upload any image to detect clothing items using **Owlv2** zero-shot detection, find similar products with **SigLIP** multimodal embeddings, and search through millions of items using **Qdrant** vector database—all with millisecond latency.
+> **Solving the $500B visual search problem in e-commerce.** AI-powered engine that understands fashion through computer vision — object detection, style analysis, and semantic search with two-stage retrieval and cross-encoder reranking. Production-grade with CI/CD, Redis caching, and hybrid search filters.
 
-**Stack:** FastAPI • Next.js 15 • Owlv2 • SigLIP • Qdrant • Docker
+**Stack:** FastAPI • Next.js 15 • OWLv2 • CLIP • Qdrant • Redis • Docker
+
+🔗 [**Try Live Demo**](https://huggingface.co/spaces/Ab0202000/lumina-ai-demo) • [**GitHub**](https://github.com/AB0204/Lumina-AI)
 
 ---
 
@@ -226,17 +229,17 @@
 
 ```python
 focus = {
-    "creating": [
-        "🚀 Real-time data streaming platform (Kafka + Spark)",
-        "🤖 MLOps pipeline with automated retraining",
-        "🧠 Multi-agent LLM application (LangGraph)"
+    "shipping": [
+        "🔮 Lumina AI — Visual commerce engine (LIVE on HF Spaces)",
+        "🚀 Two-stage retrieval with cross-encoder reranking",
+        "🧠 Hybrid search: vector + structured filters"
     ],
     "learning": [
         "Advanced MLOps: A/B testing, model governance",
         "Distributed systems: Event-driven architecture",
-        "Production LLM deployment & RAG optimization"
+        "Production CV: GroundingDINO, Florence-2"
     ],
-    "next": "Computer Vision with YOLO v8 for edge deployment"
+    "next": "Multi-agent LLM application with LangGraph"
 }
 ```
 
