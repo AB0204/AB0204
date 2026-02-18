@@ -142,6 +142,20 @@
 
 ## 🎬 See Projects In Action
 
+<details open>
+<summary><b>🔮 Lumina AI - Visual Commerce Engine</b></summary>
+<br>
+
+**Key Features:**
+- 🎯 Zero-shot fashion detection with OWLv2
+- ✨ Style & vibe analysis using CLIP
+- 🔍 Semantic product search with vector embeddings
+- ⚡ Two-stage retrieval with cross-encoder reranking
+
+🔗 [**Try Live Demo on Hugging Face**](https://huggingface.co/spaces/Ab0202000/lumina-ai-demo)
+
+</details>
+
 <details>
 <summary><b>🔐 FraudGuard - MLOps Dashboard</b></summary>
 <br>
@@ -159,7 +173,7 @@
 </details>
 
 <details>
-<summary><b>🎟️ TicketBlitz - Real-Time Engineering Visualizer</b></summary>
+<summary><b>🎫 TicketBlitz - Real-Time Engineering Visualizer</b></summary>
 <br>
 
 ![TicketBlitz Demo](.github/assets/ticketblitz-demo.png)
