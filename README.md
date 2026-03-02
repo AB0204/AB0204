@@ -5,11 +5,11 @@
 **MS Computer Science @ GWU** | Ex-Vodafone, HighRadius | 6+ Production Deployments
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-bhardwaj-23b0961a0/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ab0204.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhics8.github.io/Portfolio/)
 [![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@abhiibhardwaj01)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhibhardwaj427@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AB0204&color=6366f1&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Abhics8&color=6366f1&style=for-the-badge)
 
 </div>
 
@@ -33,7 +33,7 @@
 <tr>
 <td width="50%">
 
-### 🔮 [Lumina AI](https://github.com/AB0204/Lumina-AI)
+### 🔮 [Lumina AI](https://github.com/Abhics8/Lumina-AI)
 > **Visual Commerce Engine** • Live on HF Spaces
 
 ⚡ Semantic search • Two-stage retrieval  
@@ -44,12 +44,12 @@
 - Hybrid search: vector + structured filters
 - CI/CD, Redis caching, full Docker stack
 
-🔗 [**Live Demo**](https://huggingface.co/spaces/Ab0202000/lumina-ai-demo) • [**GitHub**](https://github.com/AB0204/Lumina-AI)
+🔗 [**Live Demo**](https://huggingface.co/spaces/Ab0202000/lumina-ai-demo) • [**GitHub**](https://github.com/Abhics8/Lumina-AI)
 
 </td>
 <td width="50%">
 
-### 🔐 [FraudGuard](https://github.com/AB0204/FraudGuard)
+### 🔐 [FraudGuard](https://github.com/Abhics8/FraudGuard)
 > **MLOps Fraud Detection** • $2.4M Annual Savings
 
 ⚡ **96.2% precision** • <50ms latency  
@@ -60,14 +60,14 @@
 - 40% reduction in false positives
 - Automated retraining triggers
 
-🔗 [**Live Demo**](https://risklens-pkut6xkwhua7dmugegejum.streamlit.app) • [**GitHub**](https://github.com/AB0204/FraudGuard)
+🔗 [**Live Demo**](https://risklens-pkut6xkwhua7dmugegejum.streamlit.app) • [**GitHub**](https://github.com/Abhics8/FraudGuard)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎫 [TicketBlitz](https://github.com/AB0204/Ticket-Blitz)
+### 🎫 [TicketBlitz](https://github.com/Abhics8/Ticket-Blitz)
 > **High-Concurrency System** • 10K+ Concurrent Users
 
 ⚡ Zero race conditions • <120ms P95  
@@ -78,12 +78,12 @@
 - Event-driven architecture
 - Live WebSocket updates
 
-🔗 [**Live Demo**](https://ticket-blitz.vercel.app/) • [**GitHub**](https://github.com/AB0204/Ticket-Blitz)
+🔗 [**Live Demo**](https://ticket-blitz.vercel.app/) • [**GitHub**](https://github.com/Abhics8/Ticket-Blitz)
 
 </td>
 <td width="50%">
 
-### 🎓 [PadhAI-Dost v2](https://github.com/AB0204/PadhAI-Dost)
+### 🎓 [PadhAI-Dost v2](https://github.com/Abhics8/PadhAI-Dost)
 > **RAG-Powered AI Assistant** • 500+ Users
 
 ⚡ Auto-flashcards • Contextual chat  
@@ -94,14 +94,14 @@
 - Multi-cloud deployment
 - Real-time learning analytics
 
-🔗 [**Live Demo**](https://padhai-dost-v2.vercel.app) • [**GitHub**](https://github.com/AB0204/PadhAI-Dost)
+🔗 [**Live Demo**](https://padhai-dost-v2.vercel.app) • [**GitHub**](https://github.com/Abhics8/PadhAI-Dost)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ☁️ [WeatherNow](https://github.com/AB0204/WeatherNow)
+### ☁️ [WeatherNow](https://github.com/Abhics8/WeatherNow)
 > **AI Weather Intelligence** • LSTM Neural Networks
 
 ⚡ 92% accuracy • <2s inference  
@@ -112,12 +112,12 @@
 - GPS geolocation with 100+ cities
 - Interactive Plotly visualizations
 
-🔗 [**Live Demo**](https://weathernow-rmuxbngwrdlmwmcgkmflmq.streamlit.app/) • [**GitHub**](https://github.com/AB0204/WeatherNow)
+🔗 [**Live Demo**](https://weathernow-rmuxbngwrdlmwmcgkmflmq.streamlit.app/) • [**GitHub**](https://github.com/Abhics8/WeatherNow)
 
 </td>
 <td width="50%">
 
-### 📊 [SentiStock Analytics](https://github.com/AB0204/SentiStock-Analytics)
+### 📊 [SentiStock Analytics](https://github.com/Abhics8/SentiStock-Analytics)
 > **Stock Sentiment Analysis** • 10K+ Tickers
 
 ⚡ 100+ articles/min • 75-80% correlation  
@@ -128,7 +128,7 @@
 - Interactive dashboard <2s fetch
 - Price correlation analysis
 
-🔗 [**Live Demo**](https://stock-agent-3pltsb8klfpsbzuukamwyd.streamlit.app/) • [**GitHub**](https://github.com/AB0204/SentiStock-Analytics)
+🔗 [**Live Demo**](https://stock-agent-3pltsb8klfpsbzuukamwyd.streamlit.app/) • [**GitHub**](https://github.com/Abhics8/SentiStock-Analytics)
 
 </td>
 </tr>
@@ -393,7 +393,7 @@ next_up = [
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-bhardwaj-23b0961a0/)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhibhardwaj427@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ab0204.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/View_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhics8.github.io/Portfolio/)
 
 ⭐️ *If you find my work interesting, consider starring my repositories!* ⭐️
 
