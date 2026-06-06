@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <em>I build production ML systems and high-concurrency backends — from real-time fraud detection at p95 &lt;50ms, to distributed ticket booking with zero race conditions proven by a k6 race test under 10K+ concurrent requests.</em>
+  <em>I build production ML systems and high-concurrency backends — from real-time fraud detection at p95 &lt;50ms, to distributed ticket booking with zero race conditions proven by a k6 race test.</em>
 </p>
 
 <p align="center">
