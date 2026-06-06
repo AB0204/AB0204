@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  🎯 **Graduating May 2026 · Open to ML Engineer & SDE roles · Authorized to work in the USA**
+  🎯 **Available Immediately · ML Engineer & SDE · Authorized to work in the USA (no sponsorship needed)**
 </p>
 
 ---
