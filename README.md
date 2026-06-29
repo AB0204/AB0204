@@ -113,6 +113,50 @@
   </tr>
 </table>
 
+<table width="100%" bordercolor="#30363d">
+  <tr>
+    <td width="55%" valign="top">
+      <h3><a href="https://github.com/Abhics8/AutoJobFinder">🎯 AutoJobFinder</a> — Autonomous Job Matching Engine</h3>
+      <p>Multi-agent system that scans 200+ company job boards (Greenhouse, Lever, Ashby, JSearch) every 6 hours, scores postings against resume variants using sentence-transformer embeddings, applies location and company tier boosts, and delivers Slack alerts for high-fit roles. Runs hands-off in the cloud at $0 cost.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+      </p>
+      <blockquote><p><b>🤖 Fully Autonomous — Zero Manual Effort</b><br><a href="https://huggingface.co/spaces/Ab0202000/AutoJobFinder">Deployed on HuggingFace Spaces →</a></p></blockquote>
+    </td>
+    <td width="45%" valign="top">
+      <br>
+      <a href="https://github.com/Abhics8/AutoJobFinder">
+        <img src="https://github.com/Abhics8/AutoJobFinder/raw/main/assets/autojobfinder-dashboard.png" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" bordercolor="#30363d">
+  <tr>
+    <td width="55%" valign="top">
+      <h3><a href="https://github.com/Abhics8/PadhAI-Dost">📚 PadhAI-Dost</a> — AI Study Companion</h3>
+      <p>Hybrid RAG application (BM25 + FAISS) that lets students upload study materials and get AI-powered answers with confidence scoring and source citations. Auto-generates flashcards, practice questions tagged by Bloom's Taxonomy, and multi-level explanations. Built with a RAGAS-style evaluation framework achieving 100% recall@4.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat" />
+      </p>
+      <blockquote><p><b>🧠 RAG with Confidence Scoring & Auto-Flashcards</b><br><a href="https://padhai-dost-v2.vercel.app">Live on Vercel →</a></p></blockquote>
+    </td>
+    <td width="45%" valign="top">
+      <br>
+      <a href="https://github.com/Abhics8/PadhAI-Dost">
+        <img src="https://github.com/Abhics8/PadhAI-Dost/raw/main/assets/padhai-dost-dashboard.png" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🛠️ Tech Stack
