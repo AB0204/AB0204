@@ -155,7 +155,7 @@
 
 <table width="100%" bordercolor="#30363d">
   <tr>
-    <td valign="top">
+    <td width="55%" valign="top">
       <h3><a href="https://github.com/Abhics8/YieldGuard">📊 YieldGuard</a> — Two-Stage Ad Ranking &amp; Calibration</h3>
       <p>Two-stage recommender pipeline: a two-tower retrieval model narrows a large candidate pool using FAISS approximate nearest-neighbour search, a gradient-boosted reranker scores the survivors, and an isotonic regression step calibrates those raw scores into usable probabilities before a simulated auction prices them. Built on a leakage-safe temporal feature pipeline, with a one-command evaluation harness that reruns in CI.</p>
       <p>
@@ -167,12 +167,18 @@
       </p>
       <blockquote><p><b>🔬 Retrieval → Reranking → Calibration → Auction</b><br><a href="https://github.com/Abhics8/YieldGuard/blob/main/docs/design.md">Read the design doc →</a></p></blockquote>
     </td>
+    <td width="45%" valign="top">
+      <br>
+      <a href="https://github.com/Abhics8/YieldGuard">
+        <img src="https://github.com/Abhics8/Abhics8/raw/main/assets/yieldguard-pipeline.png" width="100%" />
+      </a>
+    </td>
   </tr>
 </table>
 
 <table width="100%" bordercolor="#30363d">
   <tr>
-    <td valign="top">
+    <td width="55%" valign="top">
       <h3><a href="https://github.com/Abhics8/QuantTradingBot">📈 QuantTradingBot</a> — ML Trading Signal Research</h3>
       <p>Predicts next-day stock direction with XGBoost and PyTorch LSTM models trained on 12+ technical indicators, validated by anchored walk-forward cross-validation — training only on the past and scoring on future data the models never saw. Benchmarked head-to-head against SMA crossover, mean-reversion, and momentum baselines, with Monte Carlo risk simulation and an interactive Streamlit dashboard.</p>
       <p>
@@ -183,6 +189,12 @@
         <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
       </p>
       <blockquote><p><b>📊 Walk-Forward Validated · ML vs. Rule-Based Baselines</b><br><a href="https://github.com/Abhics8/QuantTradingBot#readme">Explore the research →</a></p></blockquote>
+    </td>
+    <td width="45%" valign="top">
+      <br>
+      <a href="https://github.com/Abhics8/QuantTradingBot">
+        <img src="https://github.com/Abhics8/Abhics8/raw/main/assets/quanttradingbot-pipeline.png" width="100%" />
+      </a>
     </td>
   </tr>
 </table>

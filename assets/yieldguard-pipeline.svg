@@ -1,0 +1,101 @@
+<svg width="1000" height="600" viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="funnel" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.45"/>
+      <stop offset="60%" stop-color="#58a6ff" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#3fb950" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="600" fill="#0d1117"/>
+
+  <!-- window chrome -->
+  <rect x="0" y="0" width="1000" height="58" fill="#161b22"/>
+  <rect x="0" y="57" width="1000" height="1" fill="#30363d"/>
+  <circle cx="26" cy="29" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="29" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="29" r="6" fill="#27c93f"/>
+  <text x="100" y="35" fill="#e6edf3" font-size="19" font-weight="600">YieldGuard</text>
+  <text x="216" y="35" fill="#8b949e" font-size="16">Two-Stage Ad Ranking Pipeline</text>
+
+  <!-- funnel labels -->
+  <text x="46" y="106" fill="#58a6ff" font-size="13" font-weight="700" letter-spacing="1.2">CANDIDATE POOL</text>
+  <text x="954" y="106" fill="#3fb950" font-size="13" font-weight="700" letter-spacing="1.2" text-anchor="end">RANKED SLATE</text>
+
+  <!-- narrowing funnel -->
+  <polygon points="46,124 954,186 954,214 46,252" fill="url(#funnel)"/>
+  <polygon points="46,124 954,186 954,214 46,252" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- stage cards -->
+  <g>
+    <rect x="42" y="292" width="212" height="152" rx="10" fill="#161b22" stroke="#30363d"/>
+    <rect x="42" y="292" width="212" height="3" rx="1.5" fill="#58a6ff"/>
+    <circle cx="70" cy="332" r="4" fill="#58a6ff"/><circle cx="86" cy="324" r="4" fill="#58a6ff" opacity=".7"/>
+    <circle cx="86" cy="342" r="4" fill="#58a6ff" opacity=".7"/><circle cx="102" cy="332" r="4" fill="#58a6ff" opacity=".45"/>
+    <text x="66" y="386" fill="#e6edf3" font-size="17" font-weight="600">Two-Tower</text>
+    <text x="66" y="408" fill="#e6edf3" font-size="17" font-weight="600">Retrieval</text>
+    <text x="66" y="430" fill="#8b949e" font-size="13">FAISS ANN search</text>
+  </g>
+
+  <g>
+    <rect x="277" y="292" width="212" height="152" rx="10" fill="#161b22" stroke="#30363d"/>
+    <rect x="277" y="292" width="212" height="3" rx="1.5" fill="#58a6ff"/>
+    <rect x="301" y="336" width="10" height="16" rx="2" fill="url(#bar)"/>
+    <rect x="317" y="326" width="10" height="26" rx="2" fill="url(#bar)"/>
+    <rect x="333" y="316" width="10" height="36" rx="2" fill="url(#bar)"/>
+    <text x="301" y="386" fill="#e6edf3" font-size="17" font-weight="600">GBDT</text>
+    <text x="301" y="408" fill="#e6edf3" font-size="17" font-weight="600">Reranker</text>
+    <text x="301" y="430" fill="#8b949e" font-size="13">gradient-boosted scoring</text>
+  </g>
+
+  <g>
+    <rect x="512" y="292" width="212" height="152" rx="10" fill="#161b22" stroke="#30363d"/>
+    <rect x="512" y="292" width="212" height="3" rx="1.5" fill="#d29922"/>
+    <path d="M536 352 L556 352 Q566 352 570 338 Q574 322 588 320" fill="none" stroke="#d29922" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M536 352 L588 320" fill="none" stroke="#8b949e" stroke-width="1.5" stroke-dasharray="3 3"/>
+    <text x="536" y="386" fill="#e6edf3" font-size="17" font-weight="600">Isotonic</text>
+    <text x="536" y="408" fill="#e6edf3" font-size="17" font-weight="600">Calibration</text>
+    <text x="536" y="430" fill="#8b949e" font-size="13">scores &#8594; probabilities</text>
+  </g>
+
+  <g>
+    <rect x="747" y="292" width="212" height="152" rx="10" fill="#161b22" stroke="#30363d"/>
+    <rect x="747" y="292" width="212" height="3" rx="1.5" fill="#3fb950"/>
+    <rect x="771" y="322" width="34" height="10" rx="3" fill="#3fb950" opacity=".85"/>
+    <rect x="771" y="337" width="22" height="10" rx="3" fill="#3fb950" opacity=".55"/>
+    <rect x="771" y="352" width="13" height="10" rx="3" fill="#3fb950" opacity=".35"/>
+    <text x="771" y="386" fill="#e6edf3" font-size="17" font-weight="600">Auction</text>
+    <text x="771" y="408" fill="#e6edf3" font-size="17" font-weight="600">Simulation</text>
+    <text x="771" y="430" fill="#8b949e" font-size="13">price &amp; allocate</text>
+  </g>
+
+  <!-- arrows -->
+  <g stroke="#484f58" stroke-width="2" fill="none">
+    <path d="M258 368 L273 368" marker-end="url(#a)"/>
+    <path d="M493 368 L508 368" marker-end="url(#a)"/>
+    <path d="M728 368 L743 368" marker-end="url(#a)"/>
+  </g>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#484f58"/>
+    </marker>
+  </defs>
+
+  <!-- stack chips -->
+  <g font-size="13" font-weight="600">
+    <rect x="42" y="492" width="78" height="28" rx="14" fill="#1f2937" stroke="#30363d"/>
+    <text x="81" y="511" fill="#8b949e" text-anchor="middle">PyTorch</text>
+    <rect x="130" y="492" width="90" height="28" rx="14" fill="#1f2937" stroke="#30363d"/>
+    <text x="175" y="511" fill="#8b949e" text-anchor="middle">LightGBM</text>
+    <rect x="230" y="492" width="66" height="28" rx="14" fill="#1f2937" stroke="#30363d"/>
+    <text x="263" y="511" fill="#8b949e" text-anchor="middle">FAISS</text>
+    <rect x="306" y="492" width="82" height="28" rx="14" fill="#1f2937" stroke="#30363d"/>
+    <text x="347" y="511" fill="#8b949e" text-anchor="middle">FastAPI</text>
+  </g>
+
+  <text x="954" y="511" fill="#8b949e" font-size="13" text-anchor="end">leakage-safe temporal split &#183; reproducible eval harness</text>
+</svg>
