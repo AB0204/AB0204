@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1500&color=2496ED&center=true&vCenter=true&width=800&height=70&lines=Machine+Learning+Engineer;Backend+%26+Distributed+Systems;Scaling+AI+to+Production;Building+High-Concurrency+APIs;MLOps+%26+Performance+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1500&color=2496ED&center=true&vCenter=true&width=900&height=70&lines=AI+%26+ML+Engineer+%7C+Building+Intelligent+Systems" alt="AI &amp; ML Engineer | Building Intelligent Systems" />
 </p>
 
 <p align="center">
